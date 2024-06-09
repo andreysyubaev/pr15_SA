@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">Question</string>
+    <string name="question_text1">Кофе готовят из ягод.</string>
+    <string name="question_text2">Помидоры - это фрукты.</string>
+    <string name="question_text3">Бананы - это ягоды.</string>
+    <string name="question_text4">Кокос — это орех.</string>
+    <string name="question_text5">Жирафы говорят «му».</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
